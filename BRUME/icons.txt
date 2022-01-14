@@ -1,0 +1,11 @@
+<i class="fab fa-500px"></i>
+<i class="fab fa-pinterest"></i>
+<i class="fab fa-instagram"></i>
+<i class="fab fa-flickr"></i>
+<i class="fab fa-facebook-f"></i>
+<i class="fab fa-behance"></i>
+<i class="fab fa-twitter"></i>
+
+
+<i aria-hidden="true" class="fas fa-envelope"></i>
+<i aria-hidden="true" class="fas fa-phone-alt"></i>
